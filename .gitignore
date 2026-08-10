@@ -1,0 +1,8 @@
+# Dossiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichier de données local (si tu ne veux pas le partager)
+mediatheque.json
